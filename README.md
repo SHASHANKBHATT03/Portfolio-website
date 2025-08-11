@@ -5,7 +5,7 @@ This is my personal portfolio website built using **Astro** and **Tailwind CSS**
 based on the DevPortfolio template. It showcases my skills, projects, and experience.
 
 ## Live Preview
-[Click here to visit my portfolio](https://SHASHANKBHATT03.github.io/portfolio-website)
+[Click here to visit my portfolio](https://portfolio-website-five-pi-16.vercel.app/)
 
 ## Built With
 - **Astro** – Static site generator

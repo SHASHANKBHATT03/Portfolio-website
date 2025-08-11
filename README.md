@@ -1,4 +1,4 @@
-````markdown
+
 # Shashank Bhatt – Portfolio Website
 
 This is my personal portfolio website built using **Astro** and **Tailwind CSS**,  
